@@ -21,6 +21,7 @@ export CFLAGS="
 -Wno-missing-field-initializers
 -Wno-multichar
 -Wno-multistatement-macros
+-Wno-override-init
 -Wno-parentheses
 -Wno-self-assign
 -Wno-sign-compare
