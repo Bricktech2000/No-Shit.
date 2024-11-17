@@ -1,4 +1,4 @@
-# No Shit.
+# No Shit.
 
 _An opinionated subset of `-Wall -Wextra`_
 
