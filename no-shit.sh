@@ -41,6 +41,7 @@ export CFLAGS="
 -Wno-switch-bool
 -Wno-trigraphs
 -Wno-unused-parameter
+-Wno-unused-value
 -Wno-xor-used-as-pow
 -Wuse-after-free=1
 "
